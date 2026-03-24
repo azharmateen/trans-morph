@@ -1,5 +1,8 @@
 # trans-morph
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Instant CLI format converter: CSV, JSON, XML, YAML, TOML -- any direction.**
 
 One command to convert between data formats. Auto-detects input, infers types, handles nested structures, and validates output. No more writing throwaway conversion scripts.
